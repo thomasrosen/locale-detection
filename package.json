@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "cld3-asm": "^3.1.1"
+  }
+}
